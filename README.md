@@ -7,3 +7,4 @@ It is intended to design, model in VHDL, simulate, synthesize, implement in the 
 Developed with [Pedro Silva](https://github.com/pedromsilva99) in 2018
 
 
+
