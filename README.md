@@ -4,4 +4,4 @@ The objectives were to implement a countdown timer in which the time started in 
 
 It is intended to design, model in VHDL, simulate, synthesize, implement in the FPGA and test in the Terasic DE2-115 kit.
 
-Developed with [Pedro Silva](https://github.com/pedromsilva99)
+Developed with [Pedro Silva](https://github.com/pedromsilva99) in 2018
